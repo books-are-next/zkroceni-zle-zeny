@@ -1,15 +1,15 @@
 {
   "author": "William Shakespeare",
-  "identifier": "shakespeare-zkroceni-zle-zeny-a505559",
+  "identifier": "shakespeare-zkroceni-zle-zeny-2fcf142",
   "languagecode": "cs",
   "modified": "2022-01-25T13:29:50.013Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Zkrocení zlé ženy",
-  "revision": "a505559",
+  "revision": "2fcf142",
   "generatedAt": {
-    "date": "Tue Jan 25 2022 15:14:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1643123644200
+    "date": "Tue Jan 25 2022 15:19:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1643123957255
   },
   "documents": [
     {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "title": "Zkrocení zlé ženy",
+      "title": "Scéna druhá • Zkrocení zlé ženy",
       "file": "zkroceni_zle_zeny_epub_split_004.html",
       "words": 1046,
       "chars": 5919,
@@ -114,17 +114,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Scéna druhá",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Scéna druhá",
-              "id": "scéna-druhá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -157,7 +149,7 @@
       ]
     },
     {
-      "title": "Zkrocení zlé ženy",
+      "title": "Scéna druhá • Zkrocení zlé ženy",
       "file": "zkroceni_zle_zeny_epub_split_006.html",
       "words": 2041,
       "chars": 11149,
@@ -170,17 +162,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Scéna druhá",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Scéna druhá",
-              "id": "scéna-druhá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -241,7 +225,7 @@
       ]
     },
     {
-      "title": "Zkrocení zlé ženy",
+      "title": "Scéna druhá • Zkrocení zlé ženy",
       "file": "zkroceni_zle_zeny_epub_split_009.html",
       "words": 1799,
       "chars": 10048,
@@ -254,17 +238,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Scéna druhá",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Scéna druhá",
-              "id": "scéna-druhá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -297,7 +273,7 @@
       ]
     },
     {
-      "title": "Zkrocení zlé ženy",
+      "title": "Scéna druhá • Zkrocení zlé ženy",
       "file": "zkroceni_zle_zeny_epub_split_011.html",
       "words": 878,
       "chars": 4871,
@@ -310,22 +286,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Scéna druhá",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Scéna druhá",
-              "id": "scéna-druhá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Zkrocení zlé ženy",
+      "title": "Scéna třetí • Zkrocení zlé ženy",
       "file": "zkroceni_zle_zeny_epub_split_012.html",
       "words": 1361,
       "chars": 7600,
@@ -338,22 +306,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Scéna třetí",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Scéna třetí",
-              "id": "scéna-třetí",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Zkrocení zlé ženy",
+      "title": "Scéna čtvrtá • Zkrocení zlé ženy",
       "file": "zkroceni_zle_zeny_epub_split_013.html",
       "words": 754,
       "chars": 4163,
@@ -366,22 +326,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Scéna čtvrtá",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Scéna čtvrtá",
-              "id": "scéna-čtvrtá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Zkrocení zlé ženy",
+      "title": "Scéna pátá • Zkrocení zlé ženy",
       "file": "zkroceni_zle_zeny_epub_split_014.html",
       "words": 558,
       "chars": 3108,
@@ -394,17 +346,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Scéna pátá",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Scéna pátá",
-              "id": "scéna-pátá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -437,7 +381,7 @@
       ]
     },
     {
-      "title": "Zkrocení zlé ženy",
+      "title": "Scéna druhá • Zkrocení zlé ženy",
       "file": "zkroceni_zle_zeny_epub_split_016.html",
       "words": 1423,
       "chars": 7959,
@@ -450,17 +394,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Scéna druhá",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Scéna druhá",
-              "id": "scéna-druhá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },

@@ -1,8 +1,6 @@
 ---
-title: ''
+title: Scéna druhá
 ---
-
-## Scéna druhá
 
 _Padova. – Před domem Baptistovým._
 

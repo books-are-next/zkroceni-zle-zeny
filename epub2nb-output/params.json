@@ -10,9 +10,9 @@
       "languageCode": "cs"
     },
     "elements": {
-      "title": "e-booknadpis\ne-booknadpis1",
+      "title": "e-booknadpis \ne-booknadpis1\ne-booknadpis2",
       "subtitle": "",
-      "h2": "e-booknadpis2\ne-booknadpis2bezodstrankovani",
+      "h2": "e-booknadpis2bezodstrankovani",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -32,6 +32,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "section0001.md",
@@ -225,7 +226,7 @@
         "William Shakespeare",
         "Městská knihovna v Praze"
       ],
-      "modified": "2022-01-25T15:13:00.920Z"
+      "modified": "2022-01-25T15:18:15.976Z"
     },
     "chapters": [
       {
@@ -253,7 +254,7 @@
         "xhtml": "zkroceni_zle_zeny_epub_split_003.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Scéna druhá",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_004.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_004.html"
@@ -265,7 +266,7 @@
         "xhtml": "zkroceni_zle_zeny_epub_split_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Scéna druhá",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_006.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_006.html"
@@ -283,7 +284,7 @@
         "xhtml": "zkroceni_zle_zeny_epub_split_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Scéna druhá",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_009.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_009.html"
@@ -295,25 +296,25 @@
         "xhtml": "zkroceni_zle_zeny_epub_split_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Scéna druhá",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_011.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Scéna třetí",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_012.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Scéna čtvrtá",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_013.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Scéna pátá",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_014.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_014.html"
@@ -325,7 +326,7 @@
         "xhtml": "zkroceni_zle_zeny_epub_split_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Scéna druhá",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_016.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_016.html"
@@ -421,6 +422,6 @@
       "user": "books-are-next",
       "repo": "zkroceni-zle-zeny"
     },
-    "generatedAt": 1643123581631
+    "generatedAt": 1643123896574
   }
 }

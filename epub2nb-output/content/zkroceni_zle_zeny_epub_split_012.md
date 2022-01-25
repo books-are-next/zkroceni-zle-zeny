@@ -1,8 +1,6 @@
 ---
-title: ''
+title: Scéna třetí
 ---
-
-## Scéna třetí
 
 _Pokoj v domě Petruchiově._
 

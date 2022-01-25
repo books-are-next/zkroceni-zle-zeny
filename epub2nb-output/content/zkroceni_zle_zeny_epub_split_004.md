@@ -1,8 +1,6 @@
 ---
-title: ''
+title: Scéna druhá
 ---
-
-## Scéna druhá
 
 _Ložnice v domě lordově._
 
