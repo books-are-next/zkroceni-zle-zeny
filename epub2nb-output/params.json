@@ -1,4 +1,222 @@
 {
+  "params": {
+    "metadata": {
+      "title": "Zkrocení zlé ženy",
+      "identifier": "9c2e8b18-8594-4e1d-a1f6-5927fce62b31",
+      "author": "William Shakespeare",
+      "modified": "2022-01-25T13:29:50.013Z",
+      "publisher": "Městská knihovna v Praze",
+      "publisherShort": "mkp",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "e-booknadpis\ne-booknadpis1",
+      "subtitle": "",
+      "h2": "e-booknadpis2\ne-booknadpis2bezodstrankovani",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "e-booktirazacitacetextkurzivaChar\ne-bookdejapoznamky",
+      "strong": "e-booktirazautoradilo",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "section0001.md",
+            "xhtml": "Section0001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_000.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_000.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_002.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_002.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_003.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_003.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_004.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_004.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_005.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_005.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_006.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_006.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_007.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_007.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_008.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_008.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_009.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_009.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_010.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_010.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_011.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_011.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_012.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_012.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_013.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_013.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_014.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_014.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_015.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_015.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_016.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_016.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zkroceni_zle_zeny_epub_split_017.md",
+            "xhtml": "zkroceni_zle_zeny_epub_split_017.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
   "epub": {
     "metadata": {
       "title": "Zkrocení zlé ženy",
@@ -7,7 +225,7 @@
         "William Shakespeare",
         "Městská knihovna v Praze"
       ],
-      "modified": "2022-01-25T13:29:50.013Z"
+      "modified": "2022-01-25T15:13:00.920Z"
     },
     "chapters": [
       {
@@ -23,13 +241,13 @@
         "xhtml": "zkroceni_zle_zeny_epub_split_000.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OSOBY",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_002.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_002.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PŘEDEHRA",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_003.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_003.html"
@@ -41,7 +259,7 @@
         "xhtml": "zkroceni_zle_zeny_epub_split_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ PRVNÍ",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_005.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_005.html"
@@ -53,13 +271,13 @@
         "xhtml": "zkroceni_zle_zeny_epub_split_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ DRUHÉ",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_007.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ TŘETÍ",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_008.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_008.html"
@@ -71,7 +289,7 @@
         "xhtml": "zkroceni_zle_zeny_epub_split_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNI ČTVRTÉ",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_010.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_010.html"
@@ -101,7 +319,7 @@
         "xhtml": "zkroceni_zle_zeny_epub_split_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "JEDNÁNÍ PÁTÉ",
         "subtitleSuggest": "",
         "filename": "zkroceni_zle_zeny_epub_split_015.md",
         "xhtml": "zkroceni_zle_zeny_epub_split_015.html"
@@ -203,6 +421,6 @@
       "user": "books-are-next",
       "repo": "zkroceni-zle-zeny"
     },
-    "generatedAt": 1643117390595
+    "generatedAt": 1643123581631
   }
 }
