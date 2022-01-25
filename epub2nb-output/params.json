@@ -1,0 +1,208 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Zkrocení zlé ženy",
+      "identifier": "9c2e8b18-8594-4e1d-a1f6-5927fce62b31",
+      "author": [
+        "William Shakespeare",
+        "Městská knihovna v Praze"
+      ],
+      "modified": "2022-01-25T13:25:46.767Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0001.md",
+        "xhtml": "Section0001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_000.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_000.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_002.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_003.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_004.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_005.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_006.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_007.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_008.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_009.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_010.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_011.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_012.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_013.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_014.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_015.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_016.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zkroceni_zle_zeny_epub_split_017.md",
+        "xhtml": "zkroceni_zle_zeny_epub_split_017.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_zkroceni_zle_zeny.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "Section",
+      "Section2",
+      "calibre10",
+      "calibre2",
+      "calibre3",
+      "calibre4",
+      "calibre8",
+      "calibre9",
+      "e-bookdejapoznamky",
+      "e-bookhypertext9bChar",
+      "e-booklicenceobrazek",
+      "e-booklicencetext",
+      "e-booknadpis",
+      "e-booknadpis1",
+      "e-booknadpis2",
+      "e-booknadpis2bezodstrankovani",
+      "e-bookosoby",
+      "e-bookosoby1",
+      "e-bookosobyChar",
+      "e-bookprimarec",
+      "e-bookprimarecChar",
+      "e-bookprimarecbezpredsazeni",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivaChar",
+      "e-booktirazautoradilo",
+      "e-booktirazodsazeni6b",
+      "e-bookverse6bza",
+      "e-bookversebezpredsazeni6bza",
+      "e-bookversebezpredsazeni6bza1",
+      "pcalibre",
+      "pcalibre1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "zkroceni-zle-zeny"
+    },
+    "generatedAt": 1643117147228
+  }
+}
