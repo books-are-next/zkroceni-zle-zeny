@@ -1,8 +1,6 @@
 ---
-title: ''
+title: Scéna čtvrtá
 ---
-
-## Scéna čtvrtá
 
 _Padova. – Před domem Baptistovým._
 

@@ -1,8 +1,6 @@
 ---
-title: ''
+title: Scéna pátá
 ---
-
-## Scéna pátá
 
 _Silnice._
 
