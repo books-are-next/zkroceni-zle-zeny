@@ -12,7 +12,6 @@ meta:
   languageCode: cs
 readingOrder:
   - section0001.html
-  - zkroceni_zle_zeny_epub_split_000.html
   - zkroceni_zle_zeny_epub_split_002.html
   - zkroceni_zle_zeny_epub_split_003.html
   - zkroceni_zle_zeny_epub_split_004.html
@@ -28,10 +27,65 @@ readingOrder:
   - zkroceni_zle_zeny_epub_split_014.html
   - zkroceni_zle_zeny_epub_split_015.html
   - zkroceni_zle_zeny_epub_split_016.html
-  - zkroceni_zle_zeny_epub_split_017.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: zkroceni_zle_zeny_epub_split_002.html
+        title: OSOBY
+        hiddenTitle: false
+      - link: zkroceni_zle_zeny_epub_split_003.html
+        title: PŘEDEHRA
+        hiddenTitle: false
+        children:
+          - link: zkroceni_zle_zeny_epub_split_004.html
+            title: Scéna druhá
+            hiddenTitle: false
+        listType: plain
+      - link: zkroceni_zle_zeny_epub_split_005.html
+        title: JEDNÁNÍ PRVNÍ
+        hiddenTitle: false
+        children:
+          - link: zkroceni_zle_zeny_epub_split_006.html
+            title: Scéna druhá
+            hiddenTitle: false
+        listType: plain
+      - link: zkroceni_zle_zeny_epub_split_007.html
+        title: JEDNÁNÍ DRUHÉ
+        hiddenTitle: false
+      - link: zkroceni_zle_zeny_epub_split_008.html
+        title: JEDNÁNÍ TŘETÍ
+        hiddenTitle: false
+        children:
+          - link: zkroceni_zle_zeny_epub_split_009.html
+            title: Scéna druhá
+            hiddenTitle: false
+        listType: plain
+      - link: zkroceni_zle_zeny_epub_split_010.html
+        title: JEDNÁNI ČTVRTÉ
+        hiddenTitle: false
+        children:
+          - link: zkroceni_zle_zeny_epub_split_011.html
+            title: Scéna druhá
+            hiddenTitle: false
+          - link: zkroceni_zle_zeny_epub_split_012.html
+            title: Scéna třetí
+            hiddenTitle: false
+          - link: zkroceni_zle_zeny_epub_split_013.html
+            title: Scéna čtvrtá
+            hiddenTitle: false
+          - link: zkroceni_zle_zeny_epub_split_014.html
+            title: Scéna pátá
+            hiddenTitle: false
+        listType: plain
+      - link: zkroceni_zle_zeny_epub_split_015.html
+        title: JEDNÁNÍ PÁTÉ
+        hiddenTitle: false
+        children:
+          - link: zkroceni_zle_zeny_epub_split_016.html
+            title: Scéna druhá
+            hiddenTitle: false
+        listType: plain
     isSection: true
     listType: plain
 static:
