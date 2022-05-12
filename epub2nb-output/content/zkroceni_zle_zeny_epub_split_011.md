@@ -1,5 +1,6 @@
 ---
 title: Scéna druhá
+contentType: prose
 ---
 
 _Padova. – Před domem Baptistovým._

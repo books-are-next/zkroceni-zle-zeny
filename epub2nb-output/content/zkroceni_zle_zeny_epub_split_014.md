@@ -1,5 +1,6 @@
 ---
 title: Scéna pátá
+contentType: prose
 ---
 
 _Silnice._

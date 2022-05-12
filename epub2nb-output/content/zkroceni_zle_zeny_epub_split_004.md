@@ -1,5 +1,6 @@
 ---
 title: Scéna druhá
+contentType: prose
 ---
 
 _Ložnice v domě lordově._

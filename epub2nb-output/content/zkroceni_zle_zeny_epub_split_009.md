@@ -1,5 +1,6 @@
 ---
 title: Scéna druhá
+contentType: prose
 ---
 
 _Ulice. – Před domem Baptistovým._

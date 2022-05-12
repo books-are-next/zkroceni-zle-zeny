@@ -1,15 +1,36 @@
 {
-  "author": "William Shakespeare",
-  "identifier": "shakespeare-zkroceni-zle-zeny-282f40d",
-  "languagecode": "cs",
-  "modified": "2022-01-25T13:29:50.013Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Zkrocení zlé ženy",
-  "revision": "282f40d",
+  "author": "William Shakespeare",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "shakespeare-zkroceni-zle-zeny-be1630a",
+  "revision": "be1630a",
+  "readingOrder": [
+    "section0001.html",
+    "zkroceni_zle_zeny_epub_split_002.html",
+    "zkroceni_zle_zeny_epub_split_003.html",
+    "zkroceni_zle_zeny_epub_split_004.html",
+    "zkroceni_zle_zeny_epub_split_005.html",
+    "zkroceni_zle_zeny_epub_split_006.html",
+    "zkroceni_zle_zeny_epub_split_007.html",
+    "zkroceni_zle_zeny_epub_split_008.html",
+    "zkroceni_zle_zeny_epub_split_009.html",
+    "zkroceni_zle_zeny_epub_split_010.html",
+    "zkroceni_zle_zeny_epub_split_011.html",
+    "zkroceni_zle_zeny_epub_split_012.html",
+    "zkroceni_zle_zeny_epub_split_013.html",
+    "zkroceni_zle_zeny_epub_split_014.html",
+    "zkroceni_zle_zeny_epub_split_015.html",
+    "zkroceni_zle_zeny_epub_split_016.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Jan 25 2022 16:02:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1643126529797
+    "date": "Thu May 12 2022 10:38:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351915718
   },
   "documents": [
     {
@@ -33,7 +54,7 @@
       ]
     },
     {
-      "title": "OSOBY • Zkrocení zlé ženy",
+      "title": "OSOBY",
       "file": "zkroceni_zle_zeny_epub_split_002.html",
       "words": 86,
       "chars": 615,
@@ -53,7 +74,7 @@
       ]
     },
     {
-      "title": "PŘEDEHRA • Zkrocení zlé ženy",
+      "title": "PŘEDEHRA",
       "file": "zkroceni_zle_zeny_epub_split_003.html",
       "words": 984,
       "chars": 5325,
@@ -81,7 +102,7 @@
       ]
     },
     {
-      "title": "Scéna druhá • Zkrocení zlé ženy",
+      "title": "Scéna druhá",
       "file": "zkroceni_zle_zeny_epub_split_004.html",
       "words": 1046,
       "chars": 5919,
@@ -101,7 +122,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ PRVNÍ • Zkrocení zlé ženy",
+      "title": "JEDNÁNÍ PRVNÍ",
       "file": "zkroceni_zle_zeny_epub_split_005.html",
       "words": 1819,
       "chars": 9943,
@@ -129,7 +150,7 @@
       ]
     },
     {
-      "title": "Scéna druhá • Zkrocení zlé ženy",
+      "title": "Scéna druhá",
       "file": "zkroceni_zle_zeny_epub_split_006.html",
       "words": 2041,
       "chars": 11149,
@@ -149,7 +170,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ DRUHÉ • Zkrocení zlé ženy",
+      "title": "JEDNÁNÍ DRUHÉ",
       "file": "zkroceni_zle_zeny_epub_split_007.html",
       "words": 2910,
       "chars": 16142,
@@ -177,7 +198,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ TŘETÍ • Zkrocení zlé ženy",
+      "title": "JEDNÁNÍ TŘETÍ",
       "file": "zkroceni_zle_zeny_epub_split_008.html",
       "words": 675,
       "chars": 3880,
@@ -205,7 +226,7 @@
       ]
     },
     {
-      "title": "Scéna druhá • Zkrocení zlé ženy",
+      "title": "Scéna druhá",
       "file": "zkroceni_zle_zeny_epub_split_009.html",
       "words": 1799,
       "chars": 10048,
@@ -225,7 +246,7 @@
       ]
     },
     {
-      "title": "JEDNÁNI ČTVRTÉ • Zkrocení zlé ženy",
+      "title": "JEDNÁNI ČTVRTÉ",
       "file": "zkroceni_zle_zeny_epub_split_010.html",
       "words": 1548,
       "chars": 8499,
@@ -253,7 +274,7 @@
       ]
     },
     {
-      "title": "Scéna druhá • Zkrocení zlé ženy",
+      "title": "Scéna druhá",
       "file": "zkroceni_zle_zeny_epub_split_011.html",
       "words": 878,
       "chars": 4871,
@@ -273,7 +294,7 @@
       ]
     },
     {
-      "title": "Scéna třetí • Zkrocení zlé ženy",
+      "title": "Scéna třetí",
       "file": "zkroceni_zle_zeny_epub_split_012.html",
       "words": 1361,
       "chars": 7600,
@@ -293,7 +314,7 @@
       ]
     },
     {
-      "title": "Scéna čtvrtá • Zkrocení zlé ženy",
+      "title": "Scéna čtvrtá",
       "file": "zkroceni_zle_zeny_epub_split_013.html",
       "words": 754,
       "chars": 4163,
@@ -313,7 +334,7 @@
       ]
     },
     {
-      "title": "Scéna pátá • Zkrocení zlé ženy",
+      "title": "Scéna pátá",
       "file": "zkroceni_zle_zeny_epub_split_014.html",
       "words": 558,
       "chars": 3108,
@@ -333,7 +354,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ PÁTÉ • Zkrocení zlé ženy",
+      "title": "JEDNÁNÍ PÁTÉ",
       "file": "zkroceni_zle_zeny_epub_split_015.html",
       "words": 1131,
       "chars": 6591,
@@ -361,7 +382,7 @@
       ]
     },
     {
-      "title": "Scéna druhá • Zkrocení zlé ženy",
+      "title": "Scéna druhá",
       "file": "zkroceni_zle_zeny_epub_split_016.html",
       "words": 1423,
       "chars": 7959,
@@ -381,11 +402,11 @@
       ]
     },
     {
-      "title": "Tiráž • Zkrocení zlé ženy",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 168,
-      "chars": 1142,
-      "ideas": 17,
+      "words": 149,
+      "chars": 993,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "zkroceni_zle_zeny_epub_split_016.html",
@@ -403,9 +424,9 @@
   ],
   "totals": {
     "all": {
-      "words": 19189,
-      "chars": 106993,
-      "ideas": 2742
+      "words": 19170,
+      "chars": 106844,
+      "ideas": 2739
     },
     "chapters": {
       "words": 19015,

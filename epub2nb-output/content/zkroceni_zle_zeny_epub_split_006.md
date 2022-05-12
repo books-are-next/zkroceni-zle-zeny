@@ -1,5 +1,6 @@
 ---
 title: Scéna druhá
+contentType: prose
 ---
 
 _Ulice před domem Hortensiovým._

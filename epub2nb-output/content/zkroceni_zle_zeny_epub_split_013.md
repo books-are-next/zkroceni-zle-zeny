@@ -1,5 +1,6 @@
 ---
 title: Scéna čtvrtá
+contentType: prose
 ---
 
 _Padova. – Před domem Baptistovým._

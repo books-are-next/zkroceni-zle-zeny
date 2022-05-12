@@ -246,7 +246,7 @@
         "William Shakespeare",
         "Městská knihovna v Praze"
       ],
-      "modified": "2022-01-25T16:01:12.773Z"
+      "modified": "2013-08-07T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -442,6 +442,6 @@
       "user": "books-are-next",
       "repo": "zkroceni-zle-zeny"
     },
-    "generatedAt": 1643126473413
+    "generatedAt": 1652351417354
   }
 }
