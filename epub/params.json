@@ -45,6 +45,16 @@
             "children": []
           },
           {
+            "filename": "section0001.md",
+            "xhtml": "Section0001.html",
+            "id": 0,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
             "filename": "zkroceni_zle_zeny_epub_split_000.md",
             "xhtml": "zkroceni_zle_zeny_epub_split_000.html",
             "id": 1,
@@ -242,10 +252,7 @@
     "metadata": {
       "title": "Zkrocení zlé ženy",
       "identifier": "9c2e8b18-8594-4e1d-a1f6-5927fce62b31",
-      "author": [
-        "William Shakespeare",
-        "Městská knihovna v Praze"
-      ],
+      "author": ["William Shakespeare", "Městská knihovna v Praze"],
       "modified": "2022-01-25T15:18:15.976Z"
     },
     "chapters": [
