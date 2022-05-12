@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 ![obalka](./resources/obalka_zkroceni_zle_zeny.jpg)

@@ -1,5 +1,6 @@
 ---
 title: PŘEDEHRA
+contentType: prose
 ---
 
 ## Scéna první

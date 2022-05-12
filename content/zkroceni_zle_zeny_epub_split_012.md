@@ -1,5 +1,6 @@
 ---
 title: Scéna třetí
+contentType: prose
 ---
 
 _Pokoj v domě Petruchiově._
