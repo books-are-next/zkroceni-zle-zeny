@@ -13,6 +13,7 @@ meta:
   languageCode: cs
 readingOrder:
   - section0001.html
+  - promo.html
   - zkroceni_zle_zeny_epub_split_002.html
   - zkroceni_zle_zeny_epub_split_003.html
   - zkroceni_zle_zeny_epub_split_004.html

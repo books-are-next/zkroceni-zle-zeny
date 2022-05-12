@@ -45,6 +45,16 @@
             "children": []
           },
           {
+            "filename": "section0001.md",
+            "xhtml": "Section0001.html",
+            "id": 0,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
             "filename": "zkroceni_zle_zeny_epub_split_000.md",
             "xhtml": "zkroceni_zle_zeny_epub_split_000.html",
             "id": 1,
@@ -442,6 +452,6 @@
       "user": "books-are-next",
       "repo": "zkroceni-zle-zeny"
     },
-    "generatedAt": 1652351417354
+    "generatedAt": 1652368242354
   }
 }
