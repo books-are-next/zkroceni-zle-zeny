@@ -3,6 +3,8 @@ title: Scéna pátá
 contentType: prose
 ---
 
+<section>
+
 _Silnice._
 
 _(Vystoupí PETRUCHIO, KATEŘINA a HORTENSIO.)_
@@ -125,3 +127,5 @@ K mé vdově teď! Až začne všetečně,
 ji zkrotit naučils mne výtečně.
 
 _(Odejde.)_
+
+</section>

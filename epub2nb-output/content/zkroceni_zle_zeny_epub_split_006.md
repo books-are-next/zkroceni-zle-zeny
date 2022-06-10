@@ -3,6 +3,8 @@ title: Scéna druhá
 contentType: prose
 ---
 
+<section>
+
 _Ulice před domem Hortensiovým._
 
 _(Vystoupí PETRUCHIO a GRUMIO.)_
@@ -372,3 +374,5 @@ HORTENSIO: Toť dobrý návrh. Tedy dohodnuto!
 Petruchio, chci být tvůj _ben venuto_.
 
 _(Odejdou.)_
+
+</section>

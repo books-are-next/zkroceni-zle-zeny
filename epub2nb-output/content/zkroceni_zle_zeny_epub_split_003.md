@@ -3,6 +3,8 @@ title: PŘEDEHRA
 contentType: prose
 ---
 
+<section>
+
 ## Scéna první
 
 _Před hospodou na pláni._
@@ -205,3 +207,5 @@ jich rozmar přitlumí, by nezbujněl;
 sic dojista by z míry vybočil.
 
 _(Odejde.)_
+
+</section>

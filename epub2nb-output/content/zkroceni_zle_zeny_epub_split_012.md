@@ -3,6 +3,8 @@ title: Scéna třetí
 contentType: prose
 ---
 
+<section>
+
 _Pokoj v domě Petruchiově._
 
 _(Vystoupí KATEŘINA a GRUMIO.)_
@@ -301,3 +303,5 @@ být musí tolik hodin, kolik chci.
 HORTENSIO: Velmocný pán už slunci poroučí.
 
 _(Odejdou.)_
+
+</section>

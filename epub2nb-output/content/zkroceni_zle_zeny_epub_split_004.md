@@ -3,6 +3,8 @@ title: Scéna druhá
 contentType: prose
 ---
 
+<section>
+
 _Ložnice v domě lordově._
 
 _(SLY ve skvostném nočním županu obklopen sloužícími. Někteří s oděvy, jiní s umyvadlem, konvicí a jiným nářadím.)_
@@ -200,3 +202,5 @@ PANOŠ: Je to tak nějaký příběh.
 SLY: Dobrá, podíváme se na to. Pojďte, madam ženo, posaďte se vedle mne; i ať se šine svět! Všaktě mladší nebudem!
 
 _(Usednou. - Tuš.)_
+
+</section>

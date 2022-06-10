@@ -3,6 +3,8 @@ title: Scéna čtvrtá
 contentType: prose
 ---
 
+<section>
+
 _Padova. – Před domem Baptistovým._
 
 _(Vystoupí TRANIO a ŠKOLOMET přestrojený za Vincentia.)_
@@ -154,3 +156,5 @@ Nuž, půjdu k ní, ať cokoliv se zmane:
 je zle, když Cambio ji nedostane!
 
 _(Odejde.)_
+
+</section>

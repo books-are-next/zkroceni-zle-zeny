@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-60af9cb';
+const CACHE = 'cache-fcfe237';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./section0001.html","./zkroceni_zle_zeny_epub_split_002.html","./zkroceni_zle_zeny_epub_split_003.html","./zkroceni_zle_zeny_epub_split_004.html","./zkroceni_zle_zeny_epub_split_005.html","./zkroceni_zle_zeny_epub_split_006.html","./zkroceni_zle_zeny_epub_split_007.html","./zkroceni_zle_zeny_epub_split_008.html","./zkroceni_zle_zeny_epub_split_009.html","./zkroceni_zle_zeny_epub_split_010.html","./zkroceni_zle_zeny_epub_split_011.html","./zkroceni_zle_zeny_epub_split_012.html","./zkroceni_zle_zeny_epub_split_013.html","./zkroceni_zle_zeny_epub_split_014.html","./zkroceni_zle_zeny_epub_split_015.html","./zkroceni_zle_zeny_epub_split_016.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/obalka_zkroceni_zle_zeny.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./section0001.html","./zkroceni_zle_zeny_epub_split_002.html","./zkroceni_zle_zeny_epub_split_003.html","./zkroceni_zle_zeny_epub_split_004.html","./zkroceni_zle_zeny_epub_split_005.html","./zkroceni_zle_zeny_epub_split_006.html","./zkroceni_zle_zeny_epub_split_007.html","./zkroceni_zle_zeny_epub_split_008.html","./zkroceni_zle_zeny_epub_split_009.html","./zkroceni_zle_zeny_epub_split_010.html","./zkroceni_zle_zeny_epub_split_011.html","./zkroceni_zle_zeny_epub_split_012.html","./zkroceni_zle_zeny_epub_split_013.html","./zkroceni_zle_zeny_epub_split_014.html","./zkroceni_zle_zeny_epub_split_015.html","./zkroceni_zle_zeny_epub_split_016.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/obalka_zkroceni_zle_zeny.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./template-images/circles.png","./style/style.min.css"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
