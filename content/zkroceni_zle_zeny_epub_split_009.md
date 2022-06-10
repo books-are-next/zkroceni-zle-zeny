@@ -3,6 +3,8 @@ title: Scéna druhá
 contentType: prose
 ---
 
+<section>
+
 _Ulice. – Před domem Baptistovým._
 
 _(Vystoupí BAPTISTA, GREMIO, TRANIO, KATEŘINA, BIANKA, LUCENTIO a DRUŽINA.)_
@@ -353,3 +355,5 @@ TRANIO: Má Bianka učit se být nevěstou?
 BAPTISTA: Tak jest, Lucentio. – Nuž, pánové…
 
 _(Odejdou.)_
+
+</section>

@@ -3,6 +3,8 @@ title: JEDNÁNI ČTVRTÉ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna první
 
 _Pokoj v Petruchiově letohrádku._
@@ -270,3 +272,5 @@ Kdo lépe umí vzdornou ženu léčit,
 ať poví to – svět bude se mu vděčit.
 
 _(Odejde.)_
+
+</section>

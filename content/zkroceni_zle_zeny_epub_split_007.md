@@ -3,6 +3,8 @@ title: JEDNÁNÍ DRUHÉ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna první
 
 _V Padově. – Pokoj v domě Baptistově._
@@ -623,3 +625,5 @@ však zde si dítě otce musí rodit,
 má-li to vše k mé klamné hře se hodit.
 
 _(Odejde.)_
+
+</section>

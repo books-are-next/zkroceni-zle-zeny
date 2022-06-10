@@ -3,6 +3,8 @@ title: Scéna druhá
 contentType: prose
 ---
 
+<section>
+
 _Padova. – Před domem Baptistovým._
 
 _(Vystoupí TRANIO a HORTENSIO.)_
@@ -205,3 +207,5 @@ Vše další povím vám, teď pojďte, pane,
 se převléci, jak sluší na váš stav.
 
 _(Odejdou.)_
+
+</section>

@@ -3,6 +3,8 @@ title: Scéna druhá
 contentType: prose
 ---
 
+<section>
+
 _Padova. – V domě Lucentiově._
 
 _(Hostina. – Vystoupí BAPTISTA, GREMIO, ŠKOLOMET, LUCENTIO, BIANKA, PETRUCHIO, HORTENSIO, VDOVA, TRANIO, BIONDELLO, GRUMIO a jiní SLOUŽÍCÍ.)_
@@ -342,3 +344,5 @@ HORTENSIO: Nu jdi si, jdi! – Byl tebou zkrocen drak!
 LUCENTIO: A zázrak, prosím – zůstane-li tak!
 
 _(Odejdou.)_
+
+</section>

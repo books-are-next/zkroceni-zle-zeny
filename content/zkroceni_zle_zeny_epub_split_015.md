@@ -3,6 +3,8 @@ title: JEDNÁNÍ PÁTÉ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna první
 
 _Padova. – Před domem Lucentiovým._
@@ -206,3 +208,5 @@ KATEŘINA: Tu hubičku ti dám; –jen posečkej.
 PETRUCHIO: Zda není to tak dobře? – Teď pojď, mé potěšení, líp jednou nežli nikdy – a nikdy pozdě není!
 
 _(Odejdou.)_
+
+</section>

@@ -3,6 +3,8 @@ title: JEDNÁNÍ PRVNÍ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna první
 
 _Ulice v Padově._
@@ -329,3 +331,5 @@ PANOŠ: Můj pane, teprve to začalo.
 SLY: Je to převýborný kus práce, madam paničko. Kéž by už byl konec!
 
 _(Sedí a dívají se.)_
+
+</section>

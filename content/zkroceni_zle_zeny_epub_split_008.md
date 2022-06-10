@@ -3,6 +3,8 @@ title: JEDNÁNÍ TŘETÍ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna první
 
 _Pokoj v domě Baptistově._
@@ -146,3 +148,5 @@ pak vezmi tě, kdo chce, a dobře jesti,
 Hortensio si jinde najde štěstí.
 
 _(Odejde.)_
+
+</section>

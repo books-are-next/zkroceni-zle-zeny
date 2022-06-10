@@ -3,6 +3,8 @@ title: OSOBY
 contentType: prose
 ---
 
+<section>
+
 LORD.
 
 KRYŠTOF SLY, opilý kotlář }
@@ -42,3 +44,5 @@ VDOVA.
 KREJČÍ, OZDOBNÍK a SLOUŽÍCÍ Baptistovi a Petruchiovi.
 
 _Dějiště v Padově a na venkovském sídle Petruchiově._
+
+</section>
