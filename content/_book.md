@@ -11,6 +11,7 @@ meta:
   publisher: Městská knihovna v Praze
   publisherShort: mkp
   languageCode: cs
+  isbn: 978-80-274-2504-4
 readingOrder:
   - section0001.html
   - promo.html
