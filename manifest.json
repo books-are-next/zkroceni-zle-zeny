@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-zkroceni-zle-zeny-5c23dc9",
-  "revision": "5c23dc9",
+  "identifier": "shakespeare-zkroceni-zle-zeny-c87e26f",
+  "revision": "c87e26f",
   "readingOrder": [
     "section0001.html",
     "promo.html",
@@ -30,8 +30,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:15:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949714331
+    "date": "Mon Jun 13 2022 21:33:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655155983465
   },
   "documents": [
     {
@@ -417,9 +417,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 68,
-      "chars": 483,
-      "ideas": 7,
+      "words": 149,
+      "chars": 993,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "zkroceni_zle_zeny_epub_split_016.html",
@@ -437,9 +437,9 @@
   ],
   "totals": {
     "all": {
-      "words": 19089,
-      "chars": 106334,
-      "ideas": 2732
+      "words": 19170,
+      "chars": 106844,
+      "ideas": 2739
     },
     "chapters": {
       "words": 19015,

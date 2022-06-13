@@ -2,13 +2,17 @@
 title: Tiráž
 ---
 
-<section>  
 **William Shakespeare**  
 **Zkrocení zlé ženy**  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla Zkrocení zlé ženy tak, jak bylo vydáno Státním nakladatelstvím krásné literatury, hudby a umění v roce 1959 (SHAKESPEARE, William. _Komedie. Díl 2_. Přel. Josef Václav SLÁDEK. 1. vyd. Praha: Státní nakladatelství krásné literatury, hudby a umění, 1959. 676 s. Český překlad, sv. 6).
+
+Autorem portrétu Williama Shakespeara na obálce e-knihy je Martin Droeshout.
 
 ***
 
@@ -24,4 +28,4 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v P
 
 Citační záznam této e-knihy:
 
-SHAKESPEARE, William. _Zkrocení zlé ženy_ \[online\]. Přel. Josef Václav SLÁDEK.  Praha: Městská knihovna v Praze, 2013 \[cit. 11. 6. 2022]. Dostupné z: <next-book-url>
+SHAKESPEARE, William. _Zkrocení zlé ženy_ \[online\]. Přel. Josef Václav SLÁDEK.  Praha: Městská knihovna v Praze, 2013 \[cit. 13. 6. 2022]. Dostupné z: <next-book-url>
