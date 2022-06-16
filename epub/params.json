@@ -8,7 +8,9 @@
       "publisher": "Městská knihovna v Praze",
       "publisherShort": "mkp",
       "languageCode": "cs",
-      "isbn": "978-80-274-2504-4"
+      "isbn": "978-80-274-2504-4",
+      "contentType": "drama",
+      "edition": "drama"
     },
     "elements": {
       "title": "e-booknadpis \ne-booknadpis1\ne-booknadpis2",
