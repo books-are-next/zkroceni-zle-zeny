@@ -1,6 +1,6 @@
 ---
 title: Scéna čtvrtá
-contentType: prose
+contentType: drama
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Scéna třetí
-contentType: prose
+contentType: drama
 ---
 
 <section>

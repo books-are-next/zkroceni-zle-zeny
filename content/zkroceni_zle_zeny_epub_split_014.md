@@ -1,6 +1,6 @@
 ---
 title: Scéna pátá
-contentType: prose
+contentType: drama
 ---
 
 <section>
