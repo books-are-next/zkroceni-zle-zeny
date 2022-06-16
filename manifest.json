@@ -5,10 +5,11 @@
   "title": "Zkrocení zlé ženy",
   "author": "William Shakespeare",
   "publisher": "Městská knihovna v Praze",
+  "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-zkroceni-zle-zeny-d77ad08",
-  "revision": "d77ad08",
+  "identifier": "shakespeare-zkroceni-zle-zeny-52becbb",
+  "revision": "52becbb",
   "readingOrder": [
     "section0001.html",
     "promo.html",
@@ -30,8 +31,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 06:01:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272898100
+    "date": "Thu Jun 16 2022 07:36:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364977383
   },
   "documents": [
     {
@@ -437,9 +438,9 @@
   ],
   "totals": {
     "all": {
-      "words": 19202,
-      "chars": 107103,
-      "ideas": 2741
+      "words": 19203,
+      "chars": 107108,
+      "ideas": 2742
     },
     "chapters": {
       "words": 19015,

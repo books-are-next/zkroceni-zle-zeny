@@ -1,6 +1,6 @@
 ---
 title: JEDNÁNI ČTVRTÉ
-contentType: prose
+contentType: drama
 ---
 
 <section>

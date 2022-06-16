@@ -12,6 +12,8 @@ meta:
   publisherShort: mkp
   languageCode: cs
   isbn: 978-80-274-2504-4
+  contentType: drama
+  edition: drama
 readingOrder:
   - section0001.html
   - promo.html

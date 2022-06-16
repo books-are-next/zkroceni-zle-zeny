@@ -1,6 +1,6 @@
 ---
 title: Scéna druhá
-contentType: prose
+contentType: drama
 ---
 
 <section>
