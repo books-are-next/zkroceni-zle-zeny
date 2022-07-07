@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-zkroceni-zle-zeny-18931ce",
-  "revision": "18931ce",
+  "identifier": "shakespeare-zkroceni-zle-zeny-8aa574e",
+  "revision": "8aa574e",
   "readingOrder": [
     "section0001.html",
     "promo.html",
@@ -31,8 +31,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 08:43:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657183413493
+    "date": "Thu Jul 07 2022 10:09:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657188582258
   },
   "documents": [
     {
