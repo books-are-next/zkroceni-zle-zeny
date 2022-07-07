@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-zkroceni-zle-zeny-e02e6da",
-  "revision": "e02e6da",
+  "identifier": "shakespeare-zkroceni-zle-zeny-18931ce",
+  "revision": "18931ce",
   "readingOrder": [
     "section0001.html",
     "promo.html",
@@ -28,11 +28,11 @@
     "zkroceni_zle_zeny_epub_split_014.html",
     "zkroceni_zle_zeny_epub_split_015.html",
     "zkroceni_zle_zeny_epub_split_016.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:35:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980555119
+    "date": "Thu Jul 07 2022 08:43:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183413493
   },
   "documents": [
     {
@@ -404,7 +404,7 @@
       "role": "chapter",
       "order": 16,
       "prev": "zkroceni_zle_zeny_epub_split_015.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -417,11 +417,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 181,
-      "chars": 1252,
+      "chars": 1249,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "zkroceni_zle_zeny_epub_split_016.html",
       "next": null,
@@ -439,7 +439,7 @@
   "totals": {
     "all": {
       "words": 19203,
-      "chars": 107108,
+      "chars": 107105,
       "ideas": 2742
     },
     "chapters": {

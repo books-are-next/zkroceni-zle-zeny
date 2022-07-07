@@ -61,7 +61,7 @@
             "filename": "zkroceni_zle_zeny_epub_split_000.md",
             "xhtml": "zkroceni_zle_zeny_epub_split_000.html",
             "id": 1,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -241,7 +241,7 @@
             "filename": "zkroceni_zle_zeny_epub_split_017.md",
             "xhtml": "zkroceni_zle_zeny_epub_split_017.html",
             "id": 17,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -455,6 +455,6 @@
       "user": "books-are-next",
       "repo": "zkroceni-zle-zeny"
     },
-    "generatedAt": 1655980175954
+    "generatedAt": 1657182728455
   }
 }

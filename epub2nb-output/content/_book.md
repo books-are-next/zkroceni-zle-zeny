@@ -32,7 +32,7 @@ readingOrder:
   - zkroceni_zle_zeny_epub_split_014.html
   - zkroceni_zle_zeny_epub_split_015.html
   - zkroceni_zle_zeny_epub_split_016.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
