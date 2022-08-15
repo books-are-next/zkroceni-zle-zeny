@@ -11,52 +11,52 @@ _Před hospodou na pláni._
 
 _(Vystoupí HOSPODSKÁ a SLY.)_
 
-SLY: Na mou duši, že vám nabančím.
+**SLY:** Na mou duši, že vám nabančím.
 
-HOSPODSKÁ: Do klad s tebou, ty taškáři!
+**HOSPODSKÁ:** Do klad s tebou, ty taškáři!
 
-SLY: Vy jste holota. Slyové nejsou taškáři. Podívejte se do kronik; my jsme přišli do země s Richardem Podmanitelem. Protož, _paucas pallabris_; ať se šine svět! Hybaj!
+**SLY:** Vy jste holota. Slyové nejsou taškáři. Podívejte se do kronik; my jsme přišli do země s Richardem Podmanitelem. Protož, _paucas pallabris_; ať se šine svět! Hybaj!
 
-HOSPODSKÁ: Vy tedy nezaplatíte za ty sklenice, co jste rozbil?
+**HOSPODSKÁ:** Vy tedy nezaplatíte za ty sklenice, co jste rozbil?
 
-SLY: Ne, ani haléře. Jdiž svou cestou, praví Jeroným. Jdiž do své chladné postele a zahřej se.
+**SLY:** Ne, ani haléře. Jdiž svou cestou, praví Jeroným. Jdiž do své chladné postele a zahřej se.
 
-HOSPODSKÁ: Vím, jak si pomohu. Musím si dojíti pro čtvrtníka.
+**HOSPODSKÁ:** Vím, jak si pomohu. Musím si dojíti pro čtvrtníka.
 
 _(Odejde.)_
 
-SLY: Čtvrtník, pětník, devítník – já se mu zodpovím podle zákona. Ani na coul se nehnu, chlapče. Ať si přijde – a hezky po dobrém.
+**SLY:** Čtvrtník, pětník, devítník – já se mu zodpovím podle zákona. Ani na coul se nehnu, chlapče. Ať si přijde – a hezky po dobrém.
 
 _(Lehne na zem a usne.)_
 
 _(Lesní rohy. – Vystoupí LORD na honbě, MYSLIVCI a SLOUŽÍCÍ.)_
 
-LORD: Mé psy mi, lovčí, dobře opatruj;  
+**LORD:** Mé psy mi, lovčí, dobře opatruj;  
 je přehnán Slídník, zvíře ubohé,  
 a Luka svaž s tou fenou halasnou.  
 Zda neviděls, jak dobře znamenal  
 kol plotu Stříbroň nejchladnější sled?  
 Za dvacet liber nedám toho psa.
 
-PRVNÍ LOVČÍ: Jest Belman, pane, zrovna dobrý tak;  
+**PRVNÍ LOVČÍ:** Jest Belman, pane, zrovna dobrý tak;  
 při sebemenší ztrátě vydával  
 a dvakrát lapil vítr nejslabší;  
 jej, věřte mi, za lepšího mám psa.
 
-LORD: Tys blázen; – být jen Zvuk tak ochotný,  
+**LORD:** Tys blázen; – být jen Zvuk tak ochotný,  
 jej cenil bych za tucet takových.  
 Jen dobře nakrm je a hled jich všech;  
 já zítra opět půjdu na honbu.
 
-PRVNÍ LOVČÍ: Tak, pane, učiním.
+**PRVNÍ LOVČÍ:** Tak, pane, učiním.
 
-LORD: Co to? Kdos mrtev nebo zpit? – Zda dýše?
+**LORD:** Co to? Kdos mrtev nebo zpit? – Zda dýše?
 
-DRUHÝ LOVČÍ: On dýše, pane, ale netopit  
+**DRUHÝ LOVČÍ:** On dýše, pane, ale netopit  
 mu pivo, na tom chladném lůžku zde  
 by sotva asi moh tak pevně spát.
 
-LORD: Ó zvíře netvorné! Jak vepř tu leží!  
+**LORD:** Ó zvíře netvorné! Jak vepř tu leží!  
 Ó krutá smrti, jak jest ohyzdný  
 a hnusný obraz tvůj! – S tím opilcem  
 si něco nastrojím. – Co myslíte:  
@@ -66,11 +66,11 @@ ta nejchutnější jídla přistavit,
 jej sluhy obklopit, až procitne, –  
 zda žebrák ten by nezapomněl sebe?
 
-PRVNÍ LOVČÍ: To, pane, ani jinak nemůž být.
+**PRVNÍ LOVČÍ:** To, pane, ani jinak nemůž být.
 
-DRUHÝ LOVČÍ: To byl by úžas proň, až vzbudí se!
+**DRUHÝ LOVČÍ:** To byl by úžas proň, až vzbudí se!
 
-LORD: Jak luzný sen či přelud bezcenný.  
+**LORD:** Jak luzný sen či přelud bezcenný.  
 Již vzhůru s ním a žert mi nezkazte.  
 Do nejhezčího mého pokoje  
 jej zlehka dopravte a rozvěste  
@@ -100,12 +100,12 @@ To proveďte a všechno s mírností,
 a výborná to bude zábava,  
 když pravá míra jen se udrží.
 
-PRVNÍ LOVČÍ: Já, Vaše Milosti, vám slibuji,  
+**PRVNÍ LOVČÍ:** Já, Vaše Milosti, vám slibuji,  
 že úkol svůj tak dobře budem hrát,  
 by podle naší pilné úsluhy  
 se jenom za to měl, co řekneme.
 
-LORD: Již tedy zvolna pozvedněte ho  
+**LORD:** Již tedy zvolna pozvedněte ho  
 a do postele s ním a každý z vás  
 chop své se úlohy, až vzbudí se.
 
@@ -119,30 +119,30 @@ _(Vrátí se SLOUŽÍCÍ.)_
 
 Nu což – kdo je to?
 
-SLOUŽÍCÍ: Vaše Milosti,  
+**SLOUŽÍCÍ:** Vaše Milosti,  
 to herci, nabízejí služby své.
 
-LORD: Ať přijdou.
+**LORD:** Ať přijdou.
 
 _(Vystoupí herci.)_
 
 Dobří lidé, vítám vás.
 
-HERCI: My děkujeme Vaší Milosti.
+**HERCI:** My děkujeme Vaší Milosti.
 
-LORD: Nechcete u mne zůstati dnes večer?
+**LORD:** Nechcete u mne zůstati dnes večer?
 
-HEREC: Když ráčíte si našich služeb přát –
+**HEREC:** Když ráčíte si našich služeb přát –
 
-LORD: Z celého srdce. – Toho bracha znám,  
+**LORD:** Z celého srdce. – Toho bracha znám,  
 hrálť nejstaršího rolníkova synka.  
 Té šlechtičně jsi pěkně dvořil se.  
 Tvé jméno zapomněl jsem, úlohu  
 však slušně, přirozeně provedls.
 
-HEREC: To Vaše Milost Sota myslí as.
+**HEREC:** To Vaše Milost Sota myslí as.
 
-LORD: Máš pravdu. – Vskutku výborně jsi hrál.  
+**LORD:** Máš pravdu. – Vskutku výborně jsi hrál.  
 Nu zkrátka, přišli jste mi právě vhod,  
 tím víc, že v mysli nějaký mám žert,  
 kde vaše umění mi prospět může.  
@@ -154,11 +154,11 @@ zda ke smíchu se strhnout nedáte.
 To urazí jej, neboť říkám vám,  
 již pouhým úsměvem se rozhorlí.
 
-HEREC: Strach, vzácný pane, o to nemějte,  
+**HEREC:** Strach, vzácný pane, o to nemějte,  
 my dovedem se zdržet, kdyby byl  
 i tatrmanem v světě největším.
 
-LORD: Jdi, brachu, do jídelny provoď je  
+**LORD:** Jdi, brachu, do jídelny provoď je  
 a přátelsky je všecky vyčastuj;  
 ať nic jim neschází, co dá můj dům.
 

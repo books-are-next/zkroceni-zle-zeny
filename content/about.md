@@ -4,10 +4,10 @@ title: Tiráž
 
 **William Shakespeare**  
 **Zkrocení zlé ženy**  
-Vydala Městská knihovna v Praze  
+Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-274-2504-4 (webová kniha)  
-V MKP 2. elektronické vydání z 13. 8. 2022.
+V MKP 2. elektronické vydání z 15. 8. 2022.
 
 ***
 
@@ -26,7 +26,7 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v P
 
 Citační záznam této e-knihy:
 
-SHAKESPEARE, William. _Zkrocení zlé ženy_ \[online\]. Přel. Josef Václav SLÁDEK. V MKP 2. elektronické vydání z 13. 8. 2022. Praha: Městská knihovna v Praze, 2013 \[cit. 13. 8. 2022]. Dostupné z <[books-are-next.github.io/zkroceni-zle-zeny](https://books-are-next.github.io/zkroceni-zle-zeny/)>.
+SHAKESPEARE, William. _Zkrocení zlé ženy_ \[online\]. Přel. Josef Václav SLÁDEK. V MKP 2. elektronické vydání z 15. 8. 2022. Praha: Městská knihovna v Praze, 2013 \[cit. 15. 8. 2022]. Dostupné z <[books-are-next.github.io/zkroceni-zle-zeny](https://books-are-next.github.io/zkroceni-zle-zeny/)>.
 
 ***
 
