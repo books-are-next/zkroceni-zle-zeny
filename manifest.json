@@ -8,10 +8,9 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-zkroceni-zle-zeny-9c8f38d",
-  "revision": "9c8f38d",
+  "identifier": "shakespeare-zkroceni-zle-zeny-ca4fee7",
+  "revision": "ca4fee7",
   "readingOrder": [
-    "section0001.html",
     "promo.html",
     "zkroceni_zle_zeny_epub_split_002.html",
     "zkroceni_zle_zeny_epub_split_003.html",
@@ -31,30 +30,10 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Aug 13 2022 08:57:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1660381064413
+    "date": "Mon Aug 15 2022 07:50:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660549809799
   },
   "documents": [
-    {
-      "title": "Zkrocení zlé ženy",
-      "file": "section0001.html",
-      "words": 2,
-      "chars": 0,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "promo.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Městská knihovna v Praze",
       "file": "promo.html",
@@ -62,8 +41,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "section0001.html",
+      "order": 0,
+      "prev": null,
       "next": "zkroceni_zle_zeny_epub_split_002.html",
       "toc": []
     },
@@ -74,7 +53,7 @@
       "chars": 615,
       "ideas": 21,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "promo.html",
       "next": "zkroceni_zle_zeny_epub_split_003.html",
       "toc": [
@@ -94,7 +73,7 @@
       "chars": 5325,
       "ideas": 157,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "zkroceni_zle_zeny_epub_split_002.html",
       "next": "zkroceni_zle_zeny_epub_split_004.html",
       "toc": [
@@ -122,7 +101,7 @@
       "chars": 5919,
       "ideas": 144,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "zkroceni_zle_zeny_epub_split_003.html",
       "next": "zkroceni_zle_zeny_epub_split_005.html",
       "toc": [
@@ -142,7 +121,7 @@
       "chars": 9943,
       "ideas": 249,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "zkroceni_zle_zeny_epub_split_004.html",
       "next": "zkroceni_zle_zeny_epub_split_006.html",
       "toc": [
@@ -170,7 +149,7 @@
       "chars": 11149,
       "ideas": 275,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "zkroceni_zle_zeny_epub_split_005.html",
       "next": "zkroceni_zle_zeny_epub_split_007.html",
       "toc": [
@@ -190,7 +169,7 @@
       "chars": 16142,
       "ideas": 453,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "zkroceni_zle_zeny_epub_split_006.html",
       "next": "zkroceni_zle_zeny_epub_split_008.html",
       "toc": [
@@ -214,11 +193,11 @@
     {
       "title": "JEDNÁNÍ TŘETÍ",
       "file": "zkroceni_zle_zeny_epub_split_008.html",
-      "words": 675,
-      "chars": 3880,
+      "words": 676,
+      "chars": 3881,
       "ideas": 104,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "zkroceni_zle_zeny_epub_split_007.html",
       "next": "zkroceni_zle_zeny_epub_split_009.html",
       "toc": [
@@ -246,7 +225,7 @@
       "chars": 10048,
       "ideas": 256,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "zkroceni_zle_zeny_epub_split_008.html",
       "next": "zkroceni_zle_zeny_epub_split_010.html",
       "toc": [
@@ -266,7 +245,7 @@
       "chars": 8499,
       "ideas": 173,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "zkroceni_zle_zeny_epub_split_009.html",
       "next": "zkroceni_zle_zeny_epub_split_011.html",
       "toc": [
@@ -294,7 +273,7 @@
       "chars": 4871,
       "ideas": 146,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "zkroceni_zle_zeny_epub_split_010.html",
       "next": "zkroceni_zle_zeny_epub_split_012.html",
       "toc": [
@@ -314,7 +293,7 @@
       "chars": 7600,
       "ideas": 205,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "zkroceni_zle_zeny_epub_split_011.html",
       "next": "zkroceni_zle_zeny_epub_split_013.html",
       "toc": [
@@ -334,7 +313,7 @@
       "chars": 4163,
       "ideas": 106,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "zkroceni_zle_zeny_epub_split_012.html",
       "next": "zkroceni_zle_zeny_epub_split_014.html",
       "toc": [
@@ -354,7 +333,7 @@
       "chars": 3108,
       "ideas": 91,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "zkroceni_zle_zeny_epub_split_013.html",
       "next": "zkroceni_zle_zeny_epub_split_015.html",
       "toc": [
@@ -374,7 +353,7 @@
       "chars": 6591,
       "ideas": 111,
       "role": "chapter",
-      "order": 15,
+      "order": 14,
       "prev": "zkroceni_zle_zeny_epub_split_014.html",
       "next": "zkroceni_zle_zeny_epub_split_016.html",
       "toc": [
@@ -402,7 +381,7 @@
       "chars": 7959,
       "ideas": 229,
       "role": "chapter",
-      "order": 16,
+      "order": 15,
       "prev": "zkroceni_zle_zeny_epub_split_015.html",
       "next": "about.html",
       "toc": [
@@ -438,14 +417,14 @@
   ],
   "totals": {
     "all": {
-      "words": 19203,
-      "chars": 107108,
-      "ideas": 2742
+      "words": 19202,
+      "chars": 107109,
+      "ideas": 2740
     },
     "chapters": {
-      "words": 19015,
-      "chars": 105812,
-      "ideas": 2722
+      "words": 19014,
+      "chars": 105813,
+      "ideas": 2720
     }
   }
 }

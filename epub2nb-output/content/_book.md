@@ -4,18 +4,17 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
   title: Zkrocení zlé ženy
   identifier: 9c2e8b18-8594-4e1d-a1f6-5927fce62b31
   author: William Shakespeare
   modified: '2022-01-25T13:29:50.013Z'
   publisher: Městská knihovna v Praze
   publisherShort: mkp
-  languageCode: cs
   isbn: 978-80-274-2504-4
   contentType: drama
   edition: drama
 readingOrder:
-  - section0001.html
   - promo.html
   - zkroceni_zle_zeny_epub_split_002.html
   - zkroceni_zle_zeny_epub_split_003.html

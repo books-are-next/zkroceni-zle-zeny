@@ -9,7 +9,7 @@ _Ulice. – Před domem Baptistovým._
 
 _(Vystoupí BAPTISTA, GREMIO, TRANIO, KATEŘINA, BIANKA, LUCENTIO a DRUŽINA.)_
 
-BAPTISTA _(k Traniovi)_: Lucentio, bylť určen dnešní den  
+**BAPTISTA** _(k Traniovi)_**:** Lucentio, bylť určen dnešní den  
 ke svatbě dcery mé s Petruchiem  
 a o svém zeti neslyšíme nic.  
 Co řeknou lidé? – Jaký bude smích,  
@@ -17,7 +17,7 @@ Co řeknou lidé? – Jaký bude smích,
 by manželskému sňatku požehnal?  
 Co vy říkáte naší potupě?
 
-KATEŘINA: Jen moje potupa! Vždyť vidíte,  
+**KATEŘINA:** Jen moje potupa! Vždyť vidíte,  
 jak nucena jsem svému srdci vzdor  
 dát ruku ztřeštěnému hrubáku,  
 jenž z vrtochu měl na námluvy spěch  
@@ -34,69 +34,69 @@ si bude ukazovat: Pohleďte,
 toť žena zbrklého Petruchia,  
 jen kdyby přijít chtěl a vzal si ji.
 
-TRANIO: Jen trpělivost, dobrá Kateřino;  
+**TRANIO:** Jen trpělivost, dobrá Kateřino;  
 a Baptisto, vy též. Já ručím vám,  
 Petruchio má dobrý úmysl,  
 ať cokoliv mu brání v slovu stát.  
 Ač drsný, vím, že rozvážlivý jest,  
 ač veselý, je naskrz poctivý.
 
-KATEŘINA: A přec, kéž Kateřina nebyla  
+**KATEŘINA:** A přec, kéž Kateřina nebyla  
 jej nikdy spatřila!
 
 _(Odejde plačíc, následována Biankou a sloužícími.)_
 
-BAPTISTA: Já nemohu tě, dcero, kárati,  
+**BAPTISTA:** Já nemohu tě, dcero, kárati,  
 že pláčeš teď; neb taká urážka  
 by světce trýznila – což teprve  
 tak popudlivou dívku jako ty.
 
 _(Vystoupí BIONDELLO.)_
 
-BIONDELLO: Pane, pane! Novina, stará novina a taková novina, že jste ji nikdy neslyšel.
+**BIONDELLO:** Pane, pane! Novina, stará novina a taková novina, že jste ji nikdy neslyšel.
 
-BAPTISTA: Nová i stará, jak to může být?
+**BAPTISTA:** Nová i stará, jak to může být?
 
-BIONDELLO: Cožpak to není novina, když uslyšíte, že je Petruchio na cestě?
+**BIONDELLO:** Cožpak to není novina, když uslyšíte, že je Petruchio na cestě?
 
-BAPTISTA: Přijel?
+**BAPTISTA:** Přijel?
 
-BIONDELLO: Ach, pane, nikoliv!
+**BIONDELLO:** Ach, pane, nikoliv!
 
-BAPTISTA: Co tedy?
+**BAPTISTA:** Co tedy?
 
-BIONDELLO: Je na cestě.
+**BIONDELLO:** Je na cestě.
 
-BAPTISTA: A kdy bude zde?
+**BAPTISTA:** A kdy bude zde?
 
-BIONDELLO: Až bude stát, kde já, a uvidí vás tam.
+**BIONDELLO:** Až bude stát, kde já, a uvidí vás tam.
 
-TRANIO: Ale mluv přec, jaké jsou tvé staré noviny?
+**TRANIO:** Ale mluv přec, jaké jsou tvé staré noviny?
 
-BIONDELLO: Inu tak! – Petruchio sem přichází v novém klobouku a starém kabátu. Má sešlé kalhoty, už třikrát obrácené, boty, které už sloužily za lucerny, jedna s přazkami a druhá šněrovaná; starý zrezavělý meč, kdes vytažený z městské zbrojnice s polámaným jílcem, utrženým řemenem a uraženým hrotem. – Jeho stržený kůň má na sobě staré, od molů prožrané sedlo a střemeny každý z jiné vsi; kromě toho má ozhřivku a na páteři bezpochyby zmechovatí. Má žábu v hubě, je prašivý, plný nálevek; je zchromlý nákolenicemi a zchvácen žloutenkou; nadobro zničen závratí a utýrán škrkavkami; zlomen v kříži a s vysedlými lopatkami; na přední nohy napadá. Udidlo má na jednu stranu zkřivené; a náhlavek ze skopovice, jenž neustálým přitahováním, aby kůň neklopýtnul, několikráte už prask a byl svázán na uzle. Podpasek je šestkrát nastaven a podocasník udělán ze sametu od nějakého ženského sedla, s dvěma začátečními písmenami dámského jména vybitými z nýtků a tu a tam protkanými motouzem. –
+**BIONDELLO:** Inu tak! – Petruchio sem přichází v novém klobouku a starém kabátu. Má sešlé kalhoty, už třikrát obrácené, boty, které už sloužily za lucerny, jedna s přazkami a druhá šněrovaná; starý zrezavělý meč, kdes vytažený z městské zbrojnice s polámaným jílcem, utrženým řemenem a uraženým hrotem. – Jeho stržený kůň má na sobě staré, od molů prožrané sedlo a střemeny každý z jiné vsi; kromě toho má ozhřivku a na páteři bezpochyby zmechovatí. Má žábu v hubě, je prašivý, plný nálevek; je zchromlý nákolenicemi a zchvácen žloutenkou; nadobro zničen závratí a utýrán škrkavkami; zlomen v kříži a s vysedlými lopatkami; na přední nohy napadá. Udidlo má na jednu stranu zkřivené; a náhlavek ze skopovice, jenž neustálým přitahováním, aby kůň neklopýtnul, několikráte už prask a byl svázán na uzle. Podpasek je šestkrát nastaven a podocasník udělán ze sametu od nějakého ženského sedla, s dvěma začátečními písmenami dámského jména vybitými z nýtků a tu a tam protkanými motouzem. –
 
-BAPTISTA: Kdo jede s ním?
+**BAPTISTA:** Kdo jede s ním?
 
-BIONDELLO: Ó milostpane, jeho lokaj – navlas tak vystrojený jako jeho kůň. Na jedné noze tkanou punčochu a na druhé vlněnou holeň nataženou přes botu, lemovanou červenými a modrými stužkami; starý klobouk a za ním jako péro nějakou tisknutou milostnou písničku. Jářku obluda, učiněná obluda a nekřesťanský sloužící neb lokaj šlechticův.
+**BIONDELLO:** Ó milostpane, jeho lokaj – navlas tak vystrojený jako jeho kůň. Na jedné noze tkanou punčochu a na druhé vlněnou holeň nataženou přes botu, lemovanou červenými a modrými stužkami; starý klobouk a za ním jako péro nějakou tisknutou milostnou písničku. Jářku obluda, učiněná obluda a nekřesťanský sloužící neb lokaj šlechticův.
 
-TRANIO: Nějaký vrtoch zas jej k tomu měl,  
+**TRANIO:** Nějaký vrtoch zas jej k tomu měl,  
 ač chodí často jenom v prostém šatu.
 
-BAPTISTA: Jsem rád, že přichází, ať jakkoliv.
+**BAPTISTA:** Jsem rád, že přichází, ať jakkoliv.
 
-BIONDELLO: On ale nepřichází, pane.
+**BIONDELLO:** On ale nepřichází, pane.
 
-BAPTISTA: Což neřek jsi, že jde?
+**BAPTISTA:** Což neřek jsi, že jde?
 
-BIONDELLO: Kdo? – Petruchio že jde?
+**BIONDELLO:** Kdo? – Petruchio že jde?
 
-BAPTISTA: Ano, že jde Petruchio.
+**BAPTISTA:** Ano, že jde Petruchio.
 
-BIONDELLO: Ne, pane, já povídám, že jde sem jeho kůň a jej má na hřbetě.
+**BIONDELLO:** Ne, pane, já povídám, že jde sem jeho kůň a jej má na hřbetě.
 
-BAPTISTA: To přece jedno.
+**BAPTISTA:** To přece jedno.
 
-BIONDELLO: Ne, při svátém Jemy,  
+**BIONDELLO:** Ne, při svátém Jemy,  
 vsadím na to penny,  
 kůň když jezdcem veden,  
 že jsou víc než jeden,  
@@ -104,18 +104,18 @@ a přec houf jich není.
 
 _(Vystoupí PETRUCHIO a GRUMIO.)_
 
-PETRUCHIO: Kde jsou ti šviháci a kdo je doma?
+**PETRUCHIO:** Kde jsou ti šviháci a kdo je doma?
 
-BAPTISTA: Jste vítán, pane můj, a dobře jdete.
+**BAPTISTA:** Jste vítán, pane můj, a dobře jdete.
 
-PETRUCHIO: A přec ne dobře.
+**PETRUCHIO:** A přec ne dobře.
 
-BAPTISTA: Nekulháte snad?
+**BAPTISTA:** Nekulháte snad?
 
-TRANIO: Ó nikoli; on jenom ustrojen  
+**TRANIO:** Ó nikoli; on jenom ustrojen  
 tak dobře není, jak by sobě přál.
 
-PETRUCHIO: I v lepších šatech vpadl bych sem tak. –  
+**PETRUCHIO:** I v lepších šatech vpadl bych sem tak. –  
 Kde Katuška? – Kde je má nevěsta?  
 Jak otci daří se? – Aj, panici,  
 mně zdá se, že se nějak mračíte!  
@@ -123,17 +123,17 @@ Proč zevluje ta vzácná společnost,
 jak viděla by divné znamení,  
 buď kometu neb zázrak nezvyklý?
 
-BAPTISTA: Je známo vám, že máte svatbu dnes.  
+**BAPTISTA:** Je známo vám, že máte svatbu dnes.  
 Dřív teskno bylo nám, že nejdete,  
 teď teskno, že jste nepřipraven tak.  
 Fi! – pryč s tím šatem, hanbí to váš stav  
 a v oku trn jest naší slavnosti.
 
-TRANIO: A rcete, jaká důležitá věc  
+**TRANIO:** A rcete, jaká důležitá věc  
 vás od choti tak dlouho držela  
 a sem vás vede nepodobna sobě?
 
-PETRUCHIO: To nudno vyprávět a příkro slyšet –  
+**PETRUCHIO:** To nudno vyprávět a příkro slyšet –  
 Dost, že jsem tady, abych splnil slib,  
 ač nucen tu a tam se odchýlit.  
 Vše, až jen pokdy bude, omluvím  
@@ -141,14 +141,14 @@ a doufám, že to uspokojí vás.
 Leč – kde je Katuška? – Už dlouho meškám,  
 je k poledni, čas do kostela jít.
 
-TRANIO: V tom šatu nechoďte k své nevěstě;  
+**TRANIO:** V tom šatu nechoďte k své nevěstě;  
 v mém pokoji si vezměte šat můj.
 
-PETRUCHIO: Já? – Ne – to věřte – tak ji navštívím.
+**PETRUCHIO:** Já? – Ne – to věřte – tak ji navštívím.
 
-BAPTISTA: Leč tak – přec myslím k sňatku nepůjdete?
+**BAPTISTA:** Leč tak – přec myslím k sňatku nepůjdete?
 
-PETRUCHIO: Ví Bůh, že navlas tak; – a řeči dost;  
+**PETRUCHIO:** Ví Bůh, že navlas tak; – a řeči dost;  
 mne vezme za muže a ne můj šat.  
 To kdybych spravit moh, co na mne strhá,  
 jak změnit mohu nuzný oděv ten,  
@@ -159,15 +159,15 @@ a zpečetit svůj nárok polibkem.
 
 _(Odejdou Petruchio, Grumio a Biondello.)_
 
-TRANIO: Tím trhlým šatem něco zamýšlí  
+**TRANIO:** Tím trhlým šatem něco zamýšlí  
 a přemluvím jej, možno-li to bude,  
 by k oltáři se jinak oblekl.
 
-BAPTISTA: Jdu se tam podívat, jak skončí to.
+**BAPTISTA:** Jdu se tam podívat, jak skončí to.
 
 _(Odejde Baptista, Gremio a sloužící.)_
 
-TRANIO: Leč, pane, k její lásce nutno jest,  
+**TRANIO:** Leč, pane, k její lásce nutno jest,  
 by dobyli jsme přízně otcovy.  
 A k tomu cíli, vzácný pane můj,  
 jak už jsem řekl, musím zjednat muže  
@@ -179,13 +179,13 @@ na větší ještě sumy, než jsem slíbil.
 Tak užijete v klidu naděje  
 a dostanete Bianku s přivolením.
 
-LUCENTIO: Jen kdyby soudruh můj, ten učitel,  
+**LUCENTIO:** Jen kdyby soudruh můj, ten učitel,  
 tak nestřeh sličné Bianky každý krok. –  
 Bylo by nejlíp dát se tajně oddat.  
 A potom celý svět ať řekne: Ne!  
 Mým bude, co je mé – a světu vzdor.
 
-TRANIO: To poznenáhla dobře promyslím  
+**TRANIO:** To poznenáhla dobře promyslím  
 a všech svých výhod pilně budem dbát.  
 My přetrumfnem šedivce Grémia  
 slídivého otce Minolu,  
@@ -196,20 +196,20 @@ _(Vrací se GREMIO.)_
 
 Signore Gremio, už z kostela?
 
-GREMIO: Tak rád, jak ze školy jsem chodíval.
+**GREMIO:** Tak rád, jak ze školy jsem chodíval.
 
-TRANIO: A manžel s chotí svou se vrací též?
+**TRANIO:** A manžel s chotí svou se vrací též?
 
-GREMIO: Manžel? – Jen „žel“ pro holku nebohou!  
+**GREMIO:** Manžel? – Jen „žel“ pro holku nebohou!  
 Ten chlap je hrubý jako podkoní.
 
-TRANIO: Horší než ona? – Toť je nemožné.
+**TRANIO:** Horší než ona? – Toť je nemožné.
 
-GREMIO: Nu, ďábel, ďábel, pravý satanáš.
+**GREMIO:** Nu, ďábel, ďábel, pravý satanáš.
 
-TRANIO: A ona ďábel, ďábel, ďáblice.
+**TRANIO:** A ona ďábel, ďábel, ďáblice.
 
-GREMIO: Hm – beruška a krotký holoubek  
+**GREMIO:** Hm – beruška a krotký holoubek  
 a pravý blázínek je proti němu!  
 Jen poslechněte; když se ho kněz ptal,  
 zdaž Kateřinu chce mít za ženu,  
@@ -220,9 +220,9 @@ ten ztřeštěnec tak vrazil do něho,
 že padl s knihou kněz a kniha s ním.  
 „Teď zvedni si to,“ vzkřiknul, „kdo má chuť!“
 
-TRANIO: Co ona říkala, když opět vstal?
+**TRANIO:** Co ona říkala, když opět vstal?
 
-GREMIO: Jen třásla se, neb dupal, proklínal,  
+**GREMIO:** Jen třásla se, neb dupal, proklínal,  
 jak by ten kněz jen ošidit ho chtěl.  
 A obřady jak byly skončeny,  
 dal přinést víno, zvolal „na zdraví“  
@@ -243,16 +243,16 @@ _(Hudba.)_
 
 _(Vystoupí PETRUCHIO, KATEŘINA, BIANKA, BAPTISTA, HORTENSIO, GRUMIO a DRUŽINA.)_
 
-PETRUCHIO: Dík, pánové a vzácní přátelé,  
+**PETRUCHIO:** Dík, pánové a vzácní přátelé,  
 za vaše namáhání. – Vím, že dnes  
 hodláte poctíti mne u stolu,  
 vše upravivše k hodům svatebním.  
 Však žel, mám naspěch, musím odjeti  
 a hodlám zde se s vámi rozloučit.
 
-BAPTISTA: To možno-li? – Vy chcete večer jet?
+**BAPTISTA:** To možno-li? – Vy chcete večer jet?
 
-PETRUCHIO: Dnes musím pryč a ještě před večerem.  
+**PETRUCHIO:** Dnes musím pryč a ještě před večerem.  
 A nedivte se; věda příčinu,  
 spíš prosil byste, abych šel než zůstal.  
 Všem, vzácná společnosti, děkuji,  
@@ -261,30 +261,30 @@ té trpělivé, milé, ctnostné ženě.
 Zde s otcem hodujte, mně připijte,  
 já musím pryč a sbohem tedy všem.
 
-TRANIO: Prosíme všichni – jenom přes oběd.
+**TRANIO:** Prosíme všichni – jenom přes oběd.
 
-PETRUCHIO: To nemůž být.
+**PETRUCHIO:** To nemůž být.
 
-GREMIO: Já prosím také.
+**GREMIO:** Já prosím také.
 
-PETRUCHIO: To nemůž být.
+**PETRUCHIO:** To nemůž být.
 
-KATEŘINA: A já vás prosím.
+**KATEŘINA:** A já vás prosím.
 
-PETRUCHIO: To těší mne.
+**PETRUCHIO:** To těší mne.
 
-KATEŘINA: Vás těší zůstat?
+**KATEŘINA:** Vás těší zůstat?
 
-PETRUCHIO: Mne těší, že mne o to prosíte,  
+**PETRUCHIO:** Mne těší, že mne o to prosíte,  
 však nezůstanu, proste sebevíc.
 
-KATEŘINA: Ó, milujete-li mne, zůstaňte!
+**KATEŘINA:** Ó, milujete-li mne, zůstaňte!
 
-PETRUCHIO: Mé koně, Grumio!
+**PETRUCHIO:** Mé koně, Grumio!
 
-GRUMIO: Jsou pohotově, pane. Oves už sežral koně.
+**GRUMIO:** Jsou pohotově, pane. Oves už sežral koně.
 
-KATEŘINA: Nuž, dobře tedy!  
+**KATEŘINA:** Nuž, dobře tedy!  
 Dělej, co chceš, já nepojedu dnes,  
 ne, ani zejtra – pojedu, kdy chci!  
 Vy, pane, máte dvéře dokořán;  
@@ -295,18 +295,18 @@ než zlíbí se mně samé. Možná přec,
 že dobrý štolba se z vás vyklube,  
 když berete svou věc tak zhurta hned.
 
-PETRUCHIO: Ó Katuško, buď klidná, nezlob se!
+**PETRUCHIO:** Ó Katuško, buď klidná, nezlob se!
 
-KATEŘINA: Já chci se zlobit, co ti do toho?  
+**KATEŘINA:** Já chci se zlobit, co ti do toho?  
 Dost, otče! – Zůstane, jak budu chtít.
 
-GREMIO: Aha, teď pane, už to začíná.
+**GREMIO:** Aha, teď pane, už to začíná.
 
-KATEŘINA: A, pánové, jen račte k hostině;  
+**KATEŘINA:** A, pánové, jen račte k hostině;  
 teď vidím, že je možno ženu zbláznit,  
 když neměla by síly k odporu.
 
-PETRUCHIO: Ať jdou, Katuško, po tvém rozkazu.  
+**PETRUCHIO:** Ať jdou, Katuško, po tvém rozkazu.  
 Vy, páni, poslechněte nevěsty  
 a hodujte a hlučte, bavte se  
 jen vesele a z plných pohárů  
@@ -331,28 +331,28 @@ sám ubráním tě proti tisícům!
 
 _(Odejdou Petruchio, Kateřina a Grumio.)_
 
-BAPTISTA: Nuž ať si jdou! – To tichý páreček.
+**BAPTISTA:** Nuž ať si jdou! – To tichý páreček.
 
-GREMIO: Jen ještě mžik a byl bych puknul smíchy!
+**GREMIO:** Jen ještě mžik a byl bych puknul smíchy!
 
-TRANIO: Tak ztřeštěného sňatku nezřel svět.
+**TRANIO:** Tak ztřeštěného sňatku nezřel svět.
 
-LUCENTIO: Co, slečno, vy své sestře říkáte?
+**LUCENTIO:** Co, slečno, vy své sestře říkáte?
 
-BIANKA: Je oheň v ohni, aniž kdo co tušil.
+**BIANKA:** Je oheň v ohni, aniž kdo co tušil.
 
-GREMIO: Žeť pan Petruchio se pokatušil.
+**GREMIO:** Žeť pan Petruchio se pokatušil.
 
-BAPTISTA: Teď, sousedé a vzácní přátelé,  
+**BAPTISTA:** Teď, sousedé a vzácní přátelé,  
 ač schází ženich nám i nevěsta,  
 by zaujali svá místa u stolu,  
 přec víte, k hostině že dost je mis.  
 Lucentio, zastaňte ženicha  
 a Bianka vezme místo sestřino.
 
-TRANIO: Má Bianka učit se být nevěstou?
+**TRANIO:** Má Bianka učit se být nevěstou?
 
-BAPTISTA: Tak jest, Lucentio. – Nuž, pánové…
+**BAPTISTA:** Tak jest, Lucentio. – Nuž, pánové…
 
 _(Odejdou.)_
 

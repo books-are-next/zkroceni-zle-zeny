@@ -5,43 +5,43 @@ contentType: drama
 
 <section>
 
-LORD.
+****LORD**.**
 
-KRYŠTOF SLY, opilý kotlář }
+****KRYŠTOF** **SLY**, opilý kotlář }**
 
-HOSPODSKÁ, PANOŠ, HERCI, MYSLIVCI } osoby v předehře.
+****HOSPODSKÁ**, **PANOŠ**, **HERCI**, **MYSLIVCI** } osoby v předehře.**
 
-a jiní SLUŽEBNÍCI lordovi }
+**a jiní **SLUŽEBNÍCI** lordovi }**
 
-BAPTISTA, bohatý šlechtic padovský.
+****BAPTISTA**, bohatý šlechtic padovský.**
 
-VINCENTIO, starý šlechtic pisanský.
+****VINCENTIO**, starý šlechtic pisanský.**
 
-LUCENTIO, syn Vincentiův, Biančin milovník.
+****LUCENTIO**, syn Vincentiův, Biančin milovník.**
 
-PETRUCHIO, šlechtic veronský, Kateřinin ženich.
+****PETRUCHIO**, šlechtic veronský, Kateřinin ženich.**
 
-GREMIO, }
+****GREMIO**, }**
 
-HORTENSIO, } nápadníci Biančini.
+****HORTENSIO**, } nápadníci Biančini.**
 
-TRANIO, }
+****TRANIO**, }**
 
-BIONDELLO, } v službách Lucentiových.
+****BIONDELLO**, } v službách Lucentiových.**
 
-GRUMIO, }
+****GRUMIO**, }**
 
-CURTIS, } sloužící Petruchiovi.
+****CURTIS**, } sloužící Petruchiovi.**
 
-ŠKOLOMET, starý dobrodruh, uvedený, aby představoval Vincentia.
+****ŠKOLOMET**, starý dobrodruh, uvedený, aby představoval Vincentia.**
 
-KATEŘINA, }
+****KATEŘINA**, }**
 
-BIANKA, } dcery Baptistovy.
+****BIANKA**, } dcery Baptistovy.**
 
 VDOVA.
 
-KREJČÍ, OZDOBNÍK a SLOUŽÍCÍ Baptistovi a Petruchiovi.
+****KREJČÍ**, **OZDOBNÍK** a **SLOUŽÍCÍ** Baptistovi a Petruchiovi.**
 
 _Dějiště v Padově a na venkovském sídle Petruchiově._
 
