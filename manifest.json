@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-zkroceni-zle-zeny-9e756c5",
-  "revision": "9e756c5",
+  "identifier": "shakespeare-zkroceni-zle-zeny-6449e50",
+  "revision": "6449e50",
   "readingOrder": [
     "promo.html",
     "zkroceni_zle_zeny_epub_split_002.html",
@@ -30,8 +30,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:39:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487570829
+    "date": "Sat Oct 01 2022 16:09:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640545877
   },
   "documents": [
     {
