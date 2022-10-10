@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-zkroceni-zle-zeny-8f326bc",
-  "revision": "8f326bc",
+  "identifier": "shakespeare-zkroceni-zle-zeny-3de5583",
+  "revision": "3de5583",
   "readingOrder": [
     "promo.html",
     "zkroceni_zle_zeny_epub_split_002.html",
@@ -30,8 +30,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:51:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150691903
+    "date": "Mon Oct 10 2022 15:44:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416666344
   },
   "documents": [
     {
@@ -398,7 +398,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 179,
-      "chars": 1252,
+      "chars": 1255,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -418,7 +418,7 @@
   "totals": {
     "all": {
       "words": 19200,
-      "chars": 107109,
+      "chars": 107112,
       "ideas": 2738
     },
     "chapters": {
